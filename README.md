@@ -7,18 +7,12 @@
 
 ### 安装
 ```
-dnpm install @didi/menugoods -D
+npm install menugoods
 ```
-
-or
-```
-npm install @didi/menugoods --registry=http://registry.npm.xiaojukeji.com
-```
-
 
 ### 引入
 ```
-import MenuGoods from '@didi/menugoods'
+import MenuGoods from 'menugoods'
 ```
 
 ### 使用
