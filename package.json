@@ -1,0 +1,16 @@
+{
+  "name": "@didi/menugoods",
+  "version": "1.0.7",
+  "description": "uniapp组件，支持左右滑动，锚点定位",
+  "main": "lib/menu-goods.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp",
+    "锚点",
+    "menuGoods"
+  ],
+  "author": "dukuan",
+  "license": "ISC"
+}
