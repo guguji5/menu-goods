@@ -254,7 +254,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "style/font.scss";
 .menu-goods {
   background: #F2F6FC;
   display: flex;

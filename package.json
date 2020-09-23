@@ -1,6 +1,6 @@
 {
   "name": "menugoods",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "uniapp组件，支持左右滑动，锚点定位",
   "main": "lib/menu-goods.vue",
   "scripts": {

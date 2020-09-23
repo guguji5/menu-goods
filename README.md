@@ -5,6 +5,9 @@
 可以用与uni-app的左侧点击右侧滚动，右侧滑动左侧锚点选中的组件，具体效果见下图。
 ![](http://img-ys011.didistatic.com/static/dc2img/menu-goods.gif)
 
+### Github地址
+[https://github.com/guguji5/menu-goods](https://github.com/guguji5/menu-goods)
+
 ### 安装
 ```
 npm install menugoods
